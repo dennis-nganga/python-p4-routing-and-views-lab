@@ -54,7 +54,7 @@ Instructions begin here:
   be of the format `/print/parameter`.
 - A `count()` view should take one parameter, an integer. It should display
   all numbers in the `range` of that parameter on separate lines. Its URL
-  should be of the format `/count/parameter`.
+  should be of the format ``.
 - A `math()` view should take three parameters: `num1`, `operation`, and `num2`.
   It must perform the appropriate operation on the two numbers in the order that
   they are presented. The included operations should be: `+`, `-`, `*`, `div`
